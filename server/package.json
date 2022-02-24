@@ -1,0 +1,22 @@
+{
+  "name": "@adicitus/morrigan.server.providers.capability",
+  "version": "0.1.3",
+  "description": "Server-side capability provider for the morrigan management system.",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adicitus/ps-morrigan.providers.capability-pkg.git"
+  },
+  "keywords": [
+    "morrigan"
+  ],
+  "author": "Joakim Olsson <joakim.olsson@adicitus.cloud>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adicitus/ps-morrigan.providers.capability-pkg/issues"
+  },
+  "homepage": "https://github.com/adicitus/ps-morrigan.providers.capability-pkg#readme"
+}
